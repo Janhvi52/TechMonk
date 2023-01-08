@@ -11,9 +11,12 @@
     "react-icons": "^4.7.1",
     "react-router-dom": "^6.6.1",
     "react-scripts": "5.0.1",
+    "react-scroll-to-bottom": "^4.2.0",
+    "socket.io-client": "^4.5.4",
     "web-vitals": "^2.1.4"
   },
   "scripts": {
+    "dev":"npm start",
     "start": "react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test",
