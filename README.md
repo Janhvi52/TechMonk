@@ -41,5 +41,5 @@
 > [YouTube Demo Link](https://youtu.be/DqbncHhNFeo)
 
 
-> [Deployed site](https://tech-monk-femmecare.vercel.app/)
+> [Deployed site](https://tech-monk-femmcare.vercel.app/)
   </div>
