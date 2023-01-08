@@ -2,6 +2,7 @@ const express = require("express");
 const app = express();
 const http = require("http"); //to build our server together with a socket io
 const cors = require("cors"); //using this library to resolve bugs related to connection
+const PORT=process.env.PORT || 3001;
 const { Server } = require("socket.io");
 app.use(cors());
 
@@ -37,7 +38,7 @@ io.on("connection", (socket) => {
 //since socket.io work is based on events
 //--connection-- checks for someone connected to the socket.io server
 
-server.listen(3001, () => {
+server.listen(PORT, () => {
   console.log("Server running!");
 });
 //connecting backend to frontend
