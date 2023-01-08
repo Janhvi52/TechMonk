@@ -1,0 +1,10 @@
+.femme {
+    width: 200vw;
+    height: 200vh;
+    align-items: center;
+    justify-content: center;
+}
+
+.image {
+    display: flex;
+}
