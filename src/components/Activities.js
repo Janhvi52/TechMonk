@@ -1,9 +1,12 @@
 import React from 'react'
-import {Link} from "react-router-dom"
+import "./Activities.css"
+
 const Activities = () => {
   return (
- 
-    <a href=' https://mental-health-track.netlify.app/' >Click here to explore differentset set of activities!!</a>
+    <div className='act'>
+        <a href=' https://mental-health-track.netlify.app/' >Click here to explore differentset set of activities!!</a>
+    </div>
+  
    )
 }
 

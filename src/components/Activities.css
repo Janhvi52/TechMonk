@@ -1,0 +1,10 @@
+a{
+    font-size: large;
+}
+.act{
+    text-align: center;
+    padding: 20rem;
+    background: url(act.png) no-repeat center fixed;
+    background-size: cover;
+
+}
