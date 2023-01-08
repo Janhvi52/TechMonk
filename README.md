@@ -22,7 +22,7 @@
 - Landing page: A landing page describing TechMonk's motto behind the project
 - Dashboard: Containing About Us section.
 - Resources: To help women access different resources regarding their health.
-- Chatroom: Real-time chat app using socket.io to facilitate community bonding through chat.
+- Chatroom: Real-time chat app using socket.io to facilitate community bonding and sharing experiences anonymously through chat.
 - Activities: To help women indulge in engaging and productive activities like mental health tracker.
 
 
