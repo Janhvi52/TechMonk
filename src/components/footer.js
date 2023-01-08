@@ -21,7 +21,7 @@ const Footer = () => {
             <h4>
             <FaHome size={20} style={{ color: "#000", marginRight: "2rem" }} />
             
-            FeemmeCare, India
+            FemmeCare, India
             </h4>
             
           </div>
