@@ -1,6 +1,12 @@
 import React from "react";
 import './Resources.css';
 import symbol from '../assets/symbol.png';
+import d1 from './d1.jpg';
+import d2 from './d2.jpg';
+import d3 from './d3.jpg';
+import d4 from './d4.jpg';
+import d5 from './d5.jpg';
+import d6 from './d6.jpg';
 
 export default function Resources(){
     return(
@@ -52,6 +58,40 @@ export default function Resources(){
         <a href="https://www.marieclaire.com/health-fitness/g25843939/best-self-care-apps/">List of self-care apps</a>
         <br />
         <br />
+        <h1>Resources</h1><br></br>
+        <div className="doctor-container">
+      
+            <div className="container">
+            <h2> <img src={d1} style={{display: "inline", width: "50px"}}></img>Dr. Niles Drake, MD</h2>
+                <h4>124 reviews ⭐4.6</h4>
+                <p>I'm a Podiatrists. Specialist in the feet and the lower limbs. I treat and manage pain and diseases, as well as injuries, to help keep people active and pain free. A lot of common issues are treatable by podiatrists, such as bunions. I can also help with ongoing issues or injuries.</p>
+            </div>
+            <div className="container">
+            <h2> <img src={d2} style={{display: "inline", width: "50px"}}></img>Dr. Parth Saxena</h2>
+            <h4>20 reviews ⭐3.7</h4>
+            <p>i'm a general practitioner trained to provide healthcare to patients of any sex or age. General practitioners often work as primary care physicians (PCPs), see their patients regularly, and are familiar with their medical backgrounds. Most people do (or should) see a PCP at least once a year. When you suspect something else is going on, your first stop is a PCP since we're responsible for your overall care and well-being. I can then refer you to the right specialist.</p>
+            </div>
+            <div className="container">
+            <h2> <img src={d3} style={{display: "inline", width: "50px"}}></img>Dr. Harley Thravits</h2>
+            <h4>200 reviews ⭐4.8</h4>
+                <p>I'm a pediatrician. A doctor that specializes in childhood medicine, or those under 18. Some pediatricians will see their patients until they are 21. Pediatricians oversee the health and development of babies and children. I administer vaccines. keep track of a child's growth, and are the first contact when a child a sick.</p>
+            </div>
+            <div className="container">
+            <h2> <img src={d4} style={{display: "inline", width: "50px"}}></img>Dr. Avinash Niar</h2>
+            <h4>80 reviews ⭐3.9</h4>
+            <p>I'm a Psychiatrists who focus exclusively on mental health. You may see a psychiatrist if you believe you have symptoms of mental illness. People usually seek out psychiatrists themselves, but some PCP's now are adding mental health screenings to yearly checkups, and may provide a referral. Psychiatrists can specialize in more than one mental illness, and can also specialize in treating substance abuse. Psychiatrists can informally specialize in specific age groups, though some informally prefer to work with different ages and on different illnesses as they gain experience with patients.</p>
+            </div>
+            <div className="container">
+            <h2> <img src={d5} style={{display: "inline", width: "50px"}}></img>Dr. Emily Urbina</h2>
+            <h4>160 reviews ⭐4.0</h4>
+            <p>I'm a Allergist. Allergist/Immunologists are trained to treat allergies and disease of the immune system, such as asthma. If allergies can't be managed by over the counter medicines, you may see an allergist. You may also go to an allergist/immunologist if you need ongoing support managing an autoimmune disease, like Celiac disease.</p>
+            </div>
+            <div className="container">
+            <h2> <img src={d6} style={{display: "inline", width: "50px"}}></img>Dr. Jake Peralta & Dr. Emy Watson</h2>
+            <h4>187 reviews ⭐4.7</h4>
+            <p>We are neurologists who focuses on the anatomy, functions, and disorders of the nerves and nervous systems. Neurologists work with people who have had strokes and those with degenerative diseases of the nervous system, like multiple sclerosis. If you exhibit loss of motor of cognitive function, you could be referred to a neurologist.</p>
+            </div>
+            </div>
         </div>
         </div>
     );

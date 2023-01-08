@@ -8,6 +8,7 @@ import About from "./components/About";
 import Resources from "./components/Resources";
 import ChatWidget from "./ChatWidget";
 import Joinus from "./components/Joinus";
+import Activities from "./components/Activities";
 
 function App() {
   return (
@@ -18,6 +19,7 @@ function App() {
         <Route path="/About" element={<About />}/>
         <Route path="/ChatRoom" element={<ChatWidget />}/>
         <Route path="/Resources" element={<Resources />}/>
+        <Route path="/Activities" element={<Activities />}/>
       </Routes>
     </>
   );

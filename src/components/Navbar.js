@@ -41,7 +41,7 @@ window.addEventListener("scroll",changecolor)
                     <Link to="/Chatroom">ChatRoom</Link>
                 </li>
                 <li>
-                    <Link to="/Signin">Sign In</Link>
+                    <Link to="/Activities">Activities</Link>
                 </li>
             </ul>
             <div className="hamburger" onClick={handleClick}>

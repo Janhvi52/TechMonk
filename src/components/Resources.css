@@ -42,3 +42,20 @@ a{
 /* ul{
     margin-left: 25%;
 } */
+.doctor-container{
+    padding-top: 3rem;
+    max-width: 1140px;
+    margin: auto;
+    display: grid;
+    grid-template-columns: repeat(300px,1fr);
+    grid-gap: 50px;
+    justify-content: space-around;
+    align-content: center;
+    padding-bottom: 4rem;
+}
+/* img{
+    width: 500px;
+    height: 100px;
+ object-fit: fill;
+ border-radius: 50%;
+} */
