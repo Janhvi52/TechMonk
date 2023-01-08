@@ -32,6 +32,7 @@ margin-bottom: 0.8rem;
     padding: 1rem;
     }
     .social{
+        display: flex;
         margin-top: 1rem;
     }
     h4{
