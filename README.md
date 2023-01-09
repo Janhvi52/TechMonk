@@ -23,8 +23,7 @@
 - Dashboard: Containing About Us section.
 - Resources: To help women access different resources regarding their health.
 - Chatroom: Real-time chat app using socket.io to facilitate community bonding and sharing experiences anonymously through chat.
-- Activities: To help women indulge in engaging and productive activities like mental health tracker.
-
+- Activities (Mental Health Tracker): To help women indulge in engaging and productive activities like mental health tracker.
 
 ## Tech Stack ⚒️🛠️
 
