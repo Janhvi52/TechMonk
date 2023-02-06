@@ -1,17 +1,16 @@
-<h1 align="center"> FemmeCare 💅👸 </h1>
-
 <div align="center">
-<img  src="https://user-images.githubusercontent.com/80174214/211193256-39bdaed6-b0c2-4efb-8fb0-e5745b15f11d.png">
+<h1> FemmeCare 💅👸 </h1>  
+
+<img height="300" src="https://user-images.githubusercontent.com/80174214/211193256-39bdaed6-b0c2-4efb-8fb0-e5745b15f11d.png">
 </div>
 
-<b><p align="center">This project aims to prioritise and revolutionize Women's Health through various ways
+<b><p align="center"> Prioritising Women's Health 🚺
 </p></b>
 
 <div>
 
-# Meet Team TechMonk
 
-## Team Members 👭👭
+## Team TechMonk 👭👭
 
 - Janhvi
 - Amanpreet
@@ -27,13 +26,14 @@
 
 ## Tech Stack ⚒️🛠️
 
-- HTML 
-- Tailwind CSS 
-- React.js 
-- Express.js 
-- Socket.io 
-- Canva (for icons)
-- PenPot and Figma (for creating Wireframe)
+<img src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white" />
+<img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
+<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+<img src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Canva-%2300C4CC.svg?&style=for-the-badge&logo=Canva&logoColor=white" />
+<img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
+
+- **Other Tech used :** Socket.io and PenPot
 
 ## Demo 📺
 
